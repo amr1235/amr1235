@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr1235&show_icons=true&locale=en&layout=compact" alt="amr1235" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amr1235&show_icons=true&locale=en" alt="amr1235" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amr1235&show_icons=true&locale=en" alt="amr1235" /></p>
