@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm amr mohamed</h1>
 <h3 align="center">A passionate software developer looking forward to create not just use</h3>
 
-- 🌱 I’m currently learning **Data data science**
+- 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **amr.ali99@eng-st.cu.edu.eg**
+- 📫 How to reach me **amrali.1235@hotmail.com**
 
 - ⚡ Fun fact **I love eating peanuts with skin**
 
