@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm amr mohamed</h1>
 <h3 align="center">A passionate software developer looking forward to create not just use</h3>
 
-- 🔭 I’m currently working on [complete school system](https://github.com/amr1235/school-system)
-
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Data data science**
 
 - 📫 How to reach me **amr.ali99@eng-st.cu.edu.eg**
 
