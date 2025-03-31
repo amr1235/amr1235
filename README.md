@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm amr mohamed</h1>
+<h1 align="center">Hi 👋, I'm Amr Aly</h1>
 <h3 align="center">A passionate software developer looking forward to create not just use</h3>
 
 - 🌱 I’m currently learning **Visual Computing**
