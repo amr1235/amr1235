@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amr mohamed</h1>
 <h3 align="center">A passionate software developer looking forward to create not just use</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Visual Computing**
 
 - 📫 How to reach me **amrali.1235@hotmail.com**
 
