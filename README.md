@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Aly</h1>
 <h3 align="center">A passionate software developer looking forward to create not just use</h3>
 
-- 🌱 I’m currently learning **Visual Computing**
-
 - 📫 How to reach me **amrali.1235@hotmail.com**
 
-- ⚡ Fun fact **I love eating peanuts with skin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
